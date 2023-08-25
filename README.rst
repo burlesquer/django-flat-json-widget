@@ -1,8 +1,8 @@
 django-flat-json-widget
 =======================
 
-.. image:: https://github.com/openwisp/django-flat-json-widget/workflows/Django%20Flat%20JSON%20Widget%20CI%20Build/badge.svg?branch=master
-   :target: https://github.com/openwisp/openwisp-controller/actions?query=workflow%3A%22Django%20Flat%20JSON%20Widget%20CI%20Build%22
+.. image:: https://github.com/burlesquer/django-flat-json-widget/workflows/Django%20Flat%20JSON%20Widget%20CI%20Build/badge.svg?branch=master
+   :target: https://github.com/burlesquer/openwisp-controller/actions?query=workflow%3A%22Django%20Flat%20JSON%20Widget%20CI%20Build%22
    :alt: CI build status
 
 .. image:: https://coveralls.io/repos/openwisp/django-flat-json-widget/badge.svg
@@ -30,7 +30,7 @@ django-flat-json-widget
    :alt: code style: black
 
 .. image:: https://raw.githubusercontent.com/openwisp/django-flat-json-widget/master/docs/django-flat-json-widget-demo.gif
-   :target: https://github.com/openwisp/django-flat-json-widget/tree/master/docs/django-flat-json-widget-demo.gif
+   :target: https://github.com/burlesquer/django-flat-json-widget/tree/master/docs/django-flat-json-widget-demo.gif
    :alt: Django Flat JSON (key/value) Widget
 
 ------------
@@ -149,12 +149,12 @@ Please refer to the `OpenWISP contributing guidelines <http://openwisp.io/docs/d
 Changelog
 ---------
 
-See `CHANGES <https://github.com/openwisp/django-flat-json-widget/blob/master/CHANGES.rst>`_.
+See `CHANGES <https://github.com/burlesquer/django-flat-json-widget/blob/master/CHANGES.rst>`_.
 
 License
 -------
 
-See `LICENSE <https://github.com/openwisp/django-flat-json-widget/blob/master/LICENSE>`_.
+See `LICENSE <https://github.com/burlesquer/django-flat-json-widget/blob/master/LICENSE>`_.
 
 Support
 -------
